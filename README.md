@@ -19,7 +19,7 @@ A browser extension and web dashboard that turns a pile of open tabs into named 
   <img src="media/banner.png" alt="Sorted — your tabs, kept together" width="100%" />
 </p>
 
-> This is a public showcase of a product I designed and built. The source code is private; this repository holds screenshots, videos, and a product overview.
+> **Production code is private.** This repository is a public product showcase with screenshots, videos and an overview. It contains no source code.
 
 ---
 
@@ -95,6 +95,19 @@ Full launch video on YouTube: **[youtube.com/watch?v=SCSP6ALbSvo](https://www.yo
 </table>
 
 ---
+
+## Tech stack
+
+| Area | Technologies |
+|---|---|
+| Web app | Next.js, React, TypeScript |
+| Styling and motion | Tailwind CSS, Framer Motion |
+| Browser extension | WXT (Chrome, Edge, Firefox), React |
+| State and interactions | Zustand, dnd-kit (drag and drop) |
+| Backend | Firebase Authentication, Cloud Firestore (real-time sync), Firebase Admin |
+| Payments | Dodo Payments |
+| Hosting | Vercel |
+| Mobile | Flutter (see [Sorted Mobile](https://github.com/AaKaShhhhhhhhh/sorted-mobile-showcase)) |
 
 ## The Sorted family
 
